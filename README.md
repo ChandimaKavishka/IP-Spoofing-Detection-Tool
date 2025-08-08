@@ -3,7 +3,7 @@
 What is IP Spoofing?
 IP spoofing is when an attacker sends packets with a fake source IP address to hide their identity or impersonate a trusted source.
 
-A simple tool to detect and log spoofed IP packets in real-time using Python and Scapy. It checks incoming packets, identifies fake (spoofed) IP addresses, logs them, and displays logs via a Flask web interface.
+A tool to detect and log spoofed IP packets in real-time using Python and Scapy. It checks incoming packets, identifies fake (spoofed) IP addresses, logs them, and displays logs via a Flask web interface.
 
 Features
 - Real-time network packet sniffing using Scapy
